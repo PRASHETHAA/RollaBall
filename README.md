@@ -25,6 +25,7 @@ Step 8: Save the unity file and take screenshot.
 Step 9: Close the Unity project.
 
 ## Program:
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -69,6 +70,7 @@ public class Object1 : MonoBehaviour
         GetComponent<Rigidbody>().AddForce(x, y, z);
     }
 }
+```
 ## Output:
   ![exp2](https://user-images.githubusercontent.com/75234942/166112573-fda31641-1a7e-4ea6-a81b-3bb8e6c62f51.jpeg)
 
