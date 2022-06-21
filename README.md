@@ -73,6 +73,15 @@ public class Object1 : MonoBehaviour
 ```
 
 
+
+
+
+
+
+
+
+
+
 ## Output:
   ![exp2](https://user-images.githubusercontent.com/75234942/166112573-fda31641-1a7e-4ea6-a81b-3bb8e6c62f51.jpeg)
 
